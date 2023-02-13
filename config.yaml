@@ -31,7 +31,7 @@ params:
   dateformat: "2 January, 2006"
   favicon: "images/favicon.ico"
   feedlinks: true
-  #icon: "images/logo.png"
+  icon: "images/logo.png"
   #image: "images/logo.png"
   imageMaxWidth: 400
   logoWidth: 64
