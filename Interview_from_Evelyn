@@ -1,0 +1,35 @@
+#### Part 2, Questions for the Interview
+
+Please anticipate at least 100 words for this writing component.
+
+Who was your peer-reviewed partner?
+
+    Trang Hoang
+
+What is the GitHub account of the interviewee?
+
+    HoangTrang150302
+
+What is your interviewee's area of interest?
+
+    She is interested in AI Technology that can predict the food consumption patterns of clients so that food waste can be minimized and profit maximized.
+
+Describe the prototype from your partner.
+
+    She's going to compile a dataset that explains food consumption. Name of the food, day of the week, lunch or dinner, how many items they will sell, etc. She will do a little bit of code in R to do data pre-processing and prediction of food consumption.
+
+Describe the Experiment from your partner.
+
+    She is going to use R code to take some data and remove some of the data that she doesn't use to make it simple and then she is going to take the data into a linear regression model to see if she can make a prediction for the food usage.
+
+Describe how the prototype will produce results with the experiment.
+
+    She is going to take input data, the date and time etc and day of the week and the name of te food, and she will see what amount of food will sell for that date and time.
+
+Could this experiment be completed without the prototype? Explain.
+
+    It is a simple visualization of what she wants to do, so it will help her to imagine what her input data should be and what she should look for in the output data. This will help her to visualize what input she needs to look at in order to get the output data that she wants. So therefore, this project does need a prototype because it is going to determine what data she needs to look at in the future.
+
+What more could be done to improve the prototype?
+
+    In order to improve the prototype, she could neural network for the prototype, but she doesn't feel that she has the time to complete that. She hopes to improve the prototype by adding a neural network eventually.
